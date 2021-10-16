@@ -1,11 +1,3 @@
-/*
-*  Authors: Mauro Persano (mauro@mipc.com.br)
-*
-*           Wander Lairson Costa (wander.lairson@gmail.com):
-*              - support non-string key values
-*              - check for collisions on htable_insert
-*              - implement htable_remove
-*/
 #include <stdlib.h>
 #include <string.h>
 
